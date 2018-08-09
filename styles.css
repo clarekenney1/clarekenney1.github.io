@@ -197,7 +197,7 @@ hr {
 }
 #cssmenu ul li a:hover:before {
   width: 100%;
-}
+}*/
 #cssmenu ul li a:after {
   content:" ";
   display: block;
@@ -208,7 +208,7 @@ hr {
   width: 6px;
   background: #99a7b2;
   opacity: .5;
-}*/
+}
 #cssmenu ul li a:before {
   content:" ";
   display: block;
