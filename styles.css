@@ -212,7 +212,7 @@ hr {
 #cssmenu ul li a:before {
   content:" ";
   display: block;
-  position: absolute;
+  /*position: absolute;
   left: 0;
   bottom: 0;
   height: 3px;
@@ -222,7 +222,7 @@ hr {
   -moz-transition: width .25s;
   -ms-transition: width .25s;
   -o-transition: width .25s;
-  transition: width .25s;
+  transition: width .25s;*/
 }
 #cssmenu ul li.last > a:after,
 #cssmenu ul li:last-child > a:after {
@@ -248,9 +248,9 @@ hr {
   }
   #cssmenu ul li a {
     width: 100%;
-    -moz-box-sizing: border-box;
+    /*-moz-box-sizing: border-box;
     -webkit-box-sizing: border-box;
-    box-sizing: border-box;
+    box-sizing: border-box;*/
     /*border-bottom: 1px solid #fb998c;*/
   }
   #cssmenu ul li.last > a,
